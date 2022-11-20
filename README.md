@@ -1,2 +1,2 @@
 # DYNAMIC-TABS
-C++ Creating a Dynamic Tab (NOT FINISH)
+C/C++ Creating a Dynamic Tab (NOT FINISH)
